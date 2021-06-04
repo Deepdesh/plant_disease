@@ -20,5 +20,5 @@ Smallholders produce data:
 https://data.mendeley.com/datasets/tp63z6dz5g/1
 7.  Tensorflow/Keras documentation:
 https://www.tensorflow.org/datasets/keras_example
-![image](https://user-images.githubusercontent.com/80860722/120820681-0c0cf580-c555-11eb-91e6-97abdc158857.png)
+
 
