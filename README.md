@@ -1,8 +1,16 @@
 # Identifying Plant Diseases through deeplearning model 
+<img width="882" alt="Screenshot 2021-06-07 at 08 00 11" src="https://user-images.githubusercontent.com/80860722/120966734-f111cf80-c766-11eb-8cde-ecf5d0ab8cb8.png">
+
 
 In my final project for Ironhack, I analyzed the food security trends and causes of low yield in food production. Based on my findings, I proposed a deep learning based model solution to identify plant diseases caused by pathogens. For this model, I spent considerable amount of time learning about deep learning models and refered to some of the projects already done by other folks on Kaggle using Sequential(). Please see references below. The dataset used is publicly available and credited below as well.
 
+<img width="882" alt="Screenshot 2021-06-07 at 08 05 11" src="https://user-images.githubusercontent.com/80860722/120966859-1bfc2380-c767-11eb-89c4-171df544435e.png">
+
 For my ResNet50() iteration, I implemented the model using Tensorflow/Keras documentation. Referenced below as well.
+
+
+
+
 
 References:
 1. Plant Village Dataset: @spMohanty
