@@ -2,7 +2,7 @@
 
 In my final project for Ironhack, I analyzed the food security trends and causes of low yield in food production. Based on my findings, I proposed a deep learning based model solution to identify plant diseases caused by pathogens. For this model, I spent considerable amount of time learning about deep learning models and refered to some of the projects already done by other folks on Kaggle using Sequential(). Please see references below. The dataset used is publicly available and credited below as well.
 
-For my ResNet iteration, I implemented the model using Tensorflow/Keras documentation. Credited below as well.
+For my ResNet50() iteration, I implemented the model using Tensorflow/Keras documentation. Referenced below as well.
 
 References:
 1. Plant Village Dataset: @spMohanty
